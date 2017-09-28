@@ -99,6 +99,17 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 				'#353535',
 			),
 		),
+		array(
+			'format' => 'palette-primary',
+			'neutral-color' => '#adadad',
+			'colors' => array(
+				'#990000',
+				'#ffffff',
+				'#009999',
+				'#000000',
+				'#eaec2e',
+			),
+		),
 	);
 
 	// Override customizer options per subcategory.
